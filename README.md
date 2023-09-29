@@ -14,9 +14,9 @@ We will be coding in **Python**. The reasons are:
 But before we write our first program, we will first have to learn some periferal technologies.
 We will start with **GIT** and **Markdown**.
 
-I prepared **Lessons** folder with the first lesson **01_What_are_we_doing_here.md**.
+I prepared **Lessons** folder with the first lesson **01_Repository**.
 
-You can try to complete the tasks in the folders and let me know anytime with any problems, questions or when you finish a lesson.
+You can work your way to complete the lessons and let me know anytime with any problems, questions or when you finish a lesson.
 
 ## Tips and tricks
 
@@ -42,7 +42,7 @@ You can try to complete the tasks in the folders and let me know anytime with an
     - Assume I am a novice programmer. I don't always know or use the correct terms and I want to learn more about the craft of coding.
     ```
 
-    Yopu can also use chat GPT for translations (and it's very good, ~5x better than google translate.)
+    You can also use chat GPT for translations (and it's very good, ~5x better than google translate.)
 
 2. You can never do anything wrong by watching (**and following!**) a 5 hour tutorial about how to code a snake (Or any other tutorial...)
 
