@@ -73,7 +73,7 @@ Once opened, go to extentions and install these:
 Markdown is what this file is written in. (extention **.md**).
 It's easy to style and that's why it's widely used in Repositories. (I even use it for note-taking.)
 
-You can open the .md file in vscode. If you have **Markdown All in one** extention installed, you can press **ctrl+shift+p** (This vscodes universal action prompt) and search for **Markdown: open preview to the side** to see both the raw file and the rendered result prettily side by side.
+You can open the .md file in vscode. If you have **Markdown All in one** extention installed, you can press **ctrl+shift+p** (This openes vscodes universal action prompt) and search for **Markdown: open preview to the side** to see both the raw file and the rendered result prettily side by side.
 
 This markdown code...
 
@@ -116,7 +116,7 @@ To add a paragraph, you can put two new lines.
 
 Python is a programming language you might have heard of. In context of this lesson, I will only tell you this:
 
-Much like git, you can run python in command line. If you navigate to the 01_Repository folder and run python3 HelloWorld.py the file will execute and work.
+Much like git, you can run python in command line. If you navigate to the 01_Repository folder and run `python3 HelloWorld.py` the file will execute and work.
 
 But it's easier to use vscode (or any other IDE) and just press F5 to run the opened file. That's what the Python extention is for (among many many other things).
 
