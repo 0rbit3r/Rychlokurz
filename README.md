@@ -9,7 +9,7 @@ world of code is engrained in this language.
 We will be coding in **Python**. The reasons are:
 - Python is relatively easy to grasp, read and write
 - It's usefull as heck both in personal life and widely used in commercial sphere
-- It is very very popular and the interent is full of resources for it
+- It is very very popular and the internet is full of resources for it
 
 But before we write our first program, we will first have to learn some periferal technologies.
 We will start with **GIT** and **Markdown**.

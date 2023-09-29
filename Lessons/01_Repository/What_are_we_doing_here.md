@@ -22,6 +22,8 @@ Git is a technology that allows us to share data. (Usually coding projects)
 
 [Download git](https://git-scm.com/downloads), install it and add your github credentials(name/password) to it so that you can edit this repo.
 
+Adding the credentials is a part of installation process I hope. If not, google or hit me up;-)
+
 
 ### Git bootcamp
 
