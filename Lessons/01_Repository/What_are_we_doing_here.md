@@ -105,10 +105,7 @@ To add a paragraph, you can put two new lines.
 - don't forget to new lines before and after the list
   - lists can also be inside of other lists!
     - crazy right?
-<<<<<<< HEAD
     - Just put an extra tab before the dash
-=======
->>>>>>> 5604805451c91d29fb60d811371a2afa78fb7485
 
 - [ ] This is a special list that is rendered with checkboxes
 - [x] This task is finished!
