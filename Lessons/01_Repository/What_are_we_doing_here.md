@@ -75,6 +75,44 @@ It's easy to style and that's why it's widely used in Repositories. (I even use 
 
 You can open the .md file in vscode. If you have **Markdown All in one** extention installed, you can press **ctrl+shift+p** (This vscodes universal action prompt) and search for **Markdown: open preview to the side** to see both the raw file and the rendered result prettily side by side.
 
+This markdown code...
+
+```
+# Second-level header
+
+**Some bold text** with some *italic* info here and there... blah blah blah... this is still the first paragraph.
+
+To add a paragraph, you can put two new lines.
+
+- to make a list you use dashes
+- don't forget to new lines before and after the list
+  - lists can also be inside of other lists!
+    - crazy right?
+
+- [ ] This is a special list that is rendered with checkboxes
+- [x] This task is finished!
+```
+...
+renders like this:
+
+# Second-level header
+
+**Some bold text** with some *italic* info here and there... blah blah blah... this is still the first paragraph.
+
+To add a paragraph, you can put two new lines.
+
+- to make a list you use dashes
+- don't forget to new lines before and after the list
+  - lists can also be inside of other lists!
+    - crazy right?
+<<<<<<< HEAD
+    - Just put an extra tab before the dash
+=======
+>>>>>>> 5604805451c91d29fb60d811371a2afa78fb7485
+
+- [ ] This is a special list that is rendered with checkboxes
+- [x] This task is finished!
+
 ## Python
 
 [Download Python 3](https://www.python.org/downloads/)
