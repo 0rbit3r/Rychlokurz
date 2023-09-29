@@ -136,7 +136,7 @@ I recommend watching a python "hello world" tutorial. (Any one you like)
   - [ ] Git
     - [ ] Add Github credentials to Git settings
     - [ ] Send your Github name to me so I can give you edit rights
-  - [ ] Tortoise Git (Optional but allows us not to use command line to use git)
+  - [ ] Tortoise Git (Optional but allows us to use git iwthout command line)
 
 ---
 
