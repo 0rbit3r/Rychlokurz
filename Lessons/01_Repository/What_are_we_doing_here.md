@@ -146,4 +146,4 @@ I recommend watching a python "hello world" tutorial. (Any one you like)
 ----
 
 - [ ] Run **HelloWorld.py**
-- [ ] Finnish **PersonalHello.py** (and commit + push to origin)
+- [ ] Finish **PersonalHello.py** (and commit + push to origin)
