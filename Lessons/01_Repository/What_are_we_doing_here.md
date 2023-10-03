@@ -130,22 +130,22 @@ I recommend watching a python "hello world" tutorial. (Any one you like)
 
 ## TODO
 
-- [ ] Install and configure the necessary software
-  - [ ] Visual studio Code with extentions
-    - [ ] Python (vscode extention)
-    - [ ] Markdown All in one (vscode extention)
-  - [ ] Python 3
-  - [ ] Git
-    - [ ] Add Github credentials to Git settings
-    - [ ] Send your Github name to me so I can give you edit rights
+- [x] Install and configure the necessary software
+  - [x] Visual studio Code with extentions
+    - [x] Python (vscode extention)
+    - [x] Markdown All in one (vscode extention)
+  - [x] Python 3
+  - [x] Git
+    - [x] Add Github credentials to Git settings
+    - [x] Send your Github name to me so I can give you edit rights
   - [ ] Tortoise Git (Optional but allows us to use git iwthout command line)
 
 ---
 
-- [ ] Clone this repository
-- [ ] Create a new markdown file **I_did_it.md** inside **01_Repository**, commit the changes and push them to the origin.
+- [x] Clone this repository
+- [x] Create a new markdown file **I_did_it.md** inside **01_Repository**, commit the changes and push them to the origin.
 
 ----
 
-- [ ] Run **HelloWorld.py**
-- [ ] Finish **PersonalHello.py** (and commit + push to origin)
+- [x] Run **HelloWorld.py**
+- [x] Finish **PersonalHello.py** (and commit + push to origin)
