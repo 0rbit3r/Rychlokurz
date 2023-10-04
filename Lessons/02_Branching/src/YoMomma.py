@@ -1,4 +1,4 @@
-def isYoMommaUgly():
+def isYoMommaUgly(): # This is how you define your own function. We will learn this in the next lesson.
     return False # You can try setting this to True manually
 
 def printYoMommaJoke():
