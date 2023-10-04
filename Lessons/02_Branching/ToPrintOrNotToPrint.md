@@ -94,6 +94,8 @@ It's simple.
 
 `nice = 69`
 
+`alsoNice = nice`
+
 `==` is a comparison operator.
 
 It returns `True` if the values on the left and on the right are the equivalent.
@@ -103,6 +105,8 @@ And it returns `False` otherwise.
 `48 == 1` returns **False**
 
 `48 == 2 * 24` returns **True**
+
+`alsoNice == nice` returns **True**
 
 ## Python is weird little snake
 
@@ -175,10 +179,10 @@ Here are the requirements:
 - You should use **inner if statements**.
   ```python
   #Example:
-  if day == True: #Same as if day:
+  if day == True: #Same as 'if day:'
     if timeOfDay == 'Morning':
         goToWork()
-    elif timeOfDay == 'Afternoon'::
+    elif timeOfDay == 'Afternoon':
         relax()
     else: #if it's not morning nor afternoon then it's evening
         brushTeeth()
